@@ -2,7 +2,7 @@
 
 I'm a human based in New York doing my best to figure out what I care about in life. 🌳
 
-## "Hours of scripting can save you minutes of manual labor..."
+## Hours of scripting can save you minutes of manual labor...
 
 ...but hundreds of hours for everyone else.
 
