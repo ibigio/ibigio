@@ -1,9 +1,9 @@
-# Hi, I'm Ilan! 🙋🏽‍♂️
+# hi, i'm ilan! 🙋🏽‍♂️
 
-I'm a builder and reader based in New York doing my best to figure out what I care about in life. 🌳
+i'm a builder and reader based ins sf. i hack on developer tools, scattered projects, and canonical interfaces (visual & otherwise).
 
-## Hours of scripting can save you minutes of manual labor...
+## hours of scripting can save you minutes of manual labor...
 
 ...but hundreds of hours for everyone else.
 
-I mean, that's not why I do it. It's just fun. But it's a great way to justify it :)
+i mean, that's not why i do it. it's just fun. but it's a great way to justify it :)
